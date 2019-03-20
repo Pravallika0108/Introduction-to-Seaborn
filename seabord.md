@@ -32,5 +32,5 @@ Let us execute the below script and see how the price of the ticket for each pas
 sns.distplot(df[ 'fare' ])
 ```
 
-![alt text](https://drive.google.com/drive/u/1/search?q=type:image)
+
 
